@@ -59,7 +59,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=ibnujabir&theme=react&show_icons=true&border_radius=10&hide_border=true&count_private=true" alt="GitHub Streak" />     
+  <img width=390 src="https://streak-stats.demolab.com/?user=ibnujabir&theme=react&show_icons=true&border_radius=10&count_private=true" alt="GitHub Streak" />     
 <!--   <img width=390 src="https://github-readme-stats.vercel.app/api?username=IbnuJabir&show_icons=true&theme=react" alt="streak stats"/> -->
 <!--   <img width=390 src="https://streak-stats.demolab.com/?user=IbnuJabir&theme=react&border_radius=10" alt="streak stats"/> -->
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=IbnuJabir&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
