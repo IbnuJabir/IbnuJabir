@@ -10,11 +10,11 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **Kasma Softwares**
+ 🔭 I’m currently working on **Alif Technologies**
  
- 🌱 I’m currently learning **Docker, Python, AWS**
+ 🌱 I’m currently learning **AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/IbnuJabir/IbnuJabir/issues)**
+💬 Ask me about **Python, Node.js, React, Docker, Firebase... or anything [here](https://github.com/IbnuJabir/IbnuJabir/issues)**
 
 ✉️ You can contact me at **kedirjabir12@gmail.com**
 
